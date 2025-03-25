@@ -1,8 +1,8 @@
 # Pixel Art Showcase
 
-![GitHub license](https://img.shields.io/github/license/yourusername/your-repo)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo)
+![GitHub license](https://img.shields.io/github/license/Pourskyy/PixelArt)
+![GitHub stars](https://img.shields.io/github/stars/Pourskyy/PixelArt)
+![GitHub issues](https://img.shields.io/github/issues/Pourskyy/PixelArt)
 
 ## 🎨 Overview
 Welcome to my **Pixel Art Showcase**! This repository is dedicated to sharing my pixel art creations, ranging from character sprites to landscapes and game assets.
